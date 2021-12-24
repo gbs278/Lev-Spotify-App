@@ -1,0 +1,8 @@
+.app {
+  background-color: black;
+  border-color: white;
+}
+.buttonStyle {
+  display: flex;
+  justify-content: center;
+}
